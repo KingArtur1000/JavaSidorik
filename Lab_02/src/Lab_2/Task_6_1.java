@@ -2,15 +2,6 @@ package Lab_2;
 
 import java.util.Scanner;
 
-/**
- * Оператор continue не прерывает цикл, а пропускает выполнение оставшейся части тела цикла
- * для текущей итерации, переходя к следующей.
- * Задача: суммировать числа от 1 до заданного предела, пропуская те,
- * которые совпадают с днём или месяцем рождения пользователя.
- *
- * @author V.V. Sidorik && A.A. Dmitriev
- * @version 1.0 18.09.2025
- */
 public class Task_6_1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

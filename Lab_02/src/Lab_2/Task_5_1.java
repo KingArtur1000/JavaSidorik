@@ -2,15 +2,6 @@ package Lab_2;
 
 import java.util.Scanner;
 
-/**
- * break - оператор прерывания цикла.
- * Задача: вычислить произведение целых чисел от 14 до Nmax,
- * где Nmax = год + день + месяц рождения пользователя.
- * Вычисления прервать, если произведение делится на 79 без остатка.
- *
- * @author A.A. Dmitriev
- * @version 1.0 18.09.2025
- */
 public class Task_5_1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -46,3 +37,4 @@ public class Task_5_1 {
         System.out.println("Произведение = " + product);
     }
 }
+

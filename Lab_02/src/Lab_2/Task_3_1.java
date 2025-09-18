@@ -3,9 +3,6 @@ package Lab_2;
 import java.util.Scanner;
 
 /**
- * Вычисление суммы чисел.
- * do-while цикл.
- *
  * @author A.A. Dmitriev
  * @version 1.0 17.09.2025
  */
