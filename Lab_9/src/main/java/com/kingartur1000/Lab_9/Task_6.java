@@ -20,7 +20,7 @@ public class Task_6 extends JFrame {
         add(timeField, BorderLayout.NORTH);
 
         // Панель для "еды"
-        JTextArea foodArea = new JTextArea("Food here");
+        JTextArea foodArea = new JTextArea("Здесь должна быть еда :)");
         foodArea.setBorder(BorderFactory.createLineBorder(Color.BLACK));
         foodArea.setFont(new Font("Arial", Font.PLAIN, 16));
         add(foodArea, BorderLayout.CENTER);

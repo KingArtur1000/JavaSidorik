@@ -18,7 +18,7 @@ public class Task_3 extends JFrame {
         add(new JButton("Имя: Артур"), BorderLayout.SOUTH);
         add(new JButton("Отчество: Александрович"), BorderLayout.WEST);
         add(new JButton("Группа: 10702423"), BorderLayout.NORTH);
-        add(new JButton("Город: Минск"), BorderLayout.CENTER);
+        add(new JButton("Город: Жодино"), BorderLayout.CENTER);
     }
 
     public static void main(String[] args) {
